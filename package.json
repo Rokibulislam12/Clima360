@@ -1,0 +1,24 @@
+{
+  "name": "clima360",
+  "version": "1.0.0",
+  "description": "Clima360 - Real-Time Weather Forecast Desktop Application using OpenWeatherMap API",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "keywords": [
+    "clima360",
+    "weather",
+    "forecast",
+    "javascript",
+    "electron",
+    "openweathermap"
+  ],
+  "author": "Rokibul Islam",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^45.4.1"
+  },
+  "type": "commonjs"
+}
